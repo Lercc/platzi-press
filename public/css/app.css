@@ -7402,6 +7402,10 @@ button.bg-dark:focus {
   box-shadow: none !important;
 }
 
+.shadow-lercc {
+  box-shadow: 1px 1px 4px -1px #1a1a1a !important;
+}
+
 .w-25 {
   width: 25% !important;
 }

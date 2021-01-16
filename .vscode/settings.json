@@ -1,0 +1,6 @@
+{
+    "workbench.editor.focusRecentEditorAfterClose": false,
+    "vetur.format.options.tabSize": 4,
+    "workbench.editor.tabCloseButton": "left",
+    "editor.cursorStyle": "block"
+}
